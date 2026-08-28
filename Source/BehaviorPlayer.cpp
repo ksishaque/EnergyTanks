@@ -1,10 +1,10 @@
 /*!
 \file   BehaviorPlayer.cpp
-\author Kevin Shin
+\author Kevin Shin and Khaled Ishaque
 \date   2-13-2023
 \brief
         Functions for managing the behavior of a player tank
-\par    Copyright © 2023 DigiPen, All rights reserved.
+\par    Copyright Â© 2023 DigiPen, All rights reserved.
 */
 
 #include <glfw/glfw3.h>
